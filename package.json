@@ -1,0 +1,23 @@
+{
+  "name": "fit-me",
+  "version": "0.0.1",
+  "description": "personal fitbit client",
+  "main": "j",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4nett/fitMe.git"
+  },
+  "keywords": [
+    "fitbit",
+    "client"
+  ],
+  "author": "Annett Grellmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4nett/fitMe/issues"
+  },
+  "homepage": "https://github.com/4nett/fitMe#readme"
+}
